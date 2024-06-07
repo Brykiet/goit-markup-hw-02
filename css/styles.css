@@ -198,3 +198,13 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
+.foot .accent-studio {
+  color: #2e2f42;
+}
+
+.foot .text {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
