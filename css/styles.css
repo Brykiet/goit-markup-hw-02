@@ -58,3 +58,18 @@ body {
   color: #404bbf;
 }
 /* adres */
+
+.adres {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.adres:hover {
+  color: #404bbf;
+}
+
+.adres:active {
+  color: #404bbf;
+}
