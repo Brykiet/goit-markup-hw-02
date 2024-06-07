@@ -27,7 +27,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+/* nawigacja */
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -42,7 +42,7 @@ body {
   color: #2e2f42;
 }
 
-.nav-studio {
+.nav-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -50,10 +50,11 @@ body {
   color: #2e2f42;
 }
 
-.nav-studio:hover {
+.nav-link:hover {
   color: #404bbf;
 }
 
-.nav-studio:active {
+.nav-link:active {
   color: #404bbf;
 }
+/* adres */
