@@ -62,17 +62,17 @@ body {
   font-style: normal;
 }
 
-.adres-link {
+.adres .link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.adres-link:hover {
+.adres .link:hover {
   color: #404bbf;
 }
 
-.adres-link:active {
+.adres .link:active {
   color: #404bbf;
 }
